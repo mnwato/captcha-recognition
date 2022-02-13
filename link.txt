@@ -1,0 +1,18 @@
+List of 44 captch API:
+https://www.programmableweb.com/category/captcha/api
+
+-----------------------------------
+
+Free:
+https://rucaptcha.com/api-rucaptcha#demo
+
+
+
+Also has Free Plan:
+https://www.mtcaptcha.com/pricing
+https://captcha.guru/en/api-doc/?d=1
+
+
+document:
+https://cagriuysal.github.io/Simple-Captcha-Breaker/
+https://dataio.ir/how-to-break-a-golestan-captcha-system-with-machine-learning-kukzjnwwsqdx
