@@ -1,14 +1,18 @@
 
 # sample codes
-E:\prj\python\captcha-recognition\captcha-detection.ipynb
-E:\prj\python\captcha-recognition\captcha-recognition.ipynb
-E:\prj\python\captcha-recognition\sample-codes.py
+/captcha-detection.ipynb
+/captcha-recognition.ipynb
+/building-a-captcha-ocr-in-tf2-0.ipynb
+/sample-codes.py
 
 # Agah captcha detector
 /Agah_Captcha_Solver.py
 
 # Links
-E:\prj\python\captcha-recognition\links.txt
+/links.txt
 
 # Digits dataset
-E:\prj\python\captcha-recognition\digits-dataset.zip
+/digits-dataset.zip
+
+# Test scripts
+/test.py
