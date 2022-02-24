@@ -12,8 +12,12 @@
 # Links
 /links.txt
 
-# Digits dataset
+# Datasets
 /digits-dataset.zip
+/dataset
 
 # Test scripts
 /test.py
+
+# Pretrained model
+/pretrained_model
